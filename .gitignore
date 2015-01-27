@@ -1,3 +1,4 @@
+.gradle
 test/testDump*
 test/res/httpie/result.txt
 test/res/httpie/tmp.json
