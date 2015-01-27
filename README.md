@@ -18,6 +18,12 @@ Run backend with
 
     $ gradle run
 
+Fully functional REST backend api for booksmarks resource.
+
 Open `index.html` in a Browser.
+
+The web app looks like this:
+
+![Bookmarks web app](http://www.bernhardwenzel.com/assets/images/bookmarks-frontend.png)
 
 Backend database is a in-memory H2 database. In order to keep data between session, it can be easily switched to file mode by un-commenting the lines in `src/main/resources/application.properties`.
