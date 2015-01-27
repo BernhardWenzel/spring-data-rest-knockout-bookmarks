@@ -69,7 +69,7 @@ function BookmarkViewModel() {
             newNote = "";
         }
 
-        // make POST request (or send PATCH then we don't need to include the created date)
+        // make PUT request (or send PATCH then we don't need to include the created date)
         $.ajax(bookmark.selfHref, {
             data: '{"url": "' + newUrl + ' ", "note": "' + newNote + '", "created": "' + bookmark.created +'"}',
             type: "patch",
