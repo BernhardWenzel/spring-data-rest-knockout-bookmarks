@@ -12,6 +12,8 @@ tmp
 dist
 /.idea
 /*.iml
+/*.iws
+/*.ipr
 .settings
 /out
 /.idea_modules
