@@ -1,6 +1,6 @@
 # Example app that uses Java + Spring Data Rest and Knockout.js to create REST-based web app with minimal effort
 
-This is the source code of a tutorial that can be found here: <http://bernhardwenzel.com/2014-10-10-2014-10-10-spring-boot-rest-knockout-bookmarks>
+This is the source code of a tutorial that can be found here: <http://bernhardwenzel.com/blog/2014/10/10/spring-boot-rest-knockout-bookmarks/>
 
 Example Bookmark-application with separate backend and frontend. CORS enabled. 
 
